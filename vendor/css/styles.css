@@ -1,0 +1,8 @@
+.mydivhidden{
+    visibility: hidden;
+  }
+  @media screen and (max-width:480px){
+    .mydivhidden{
+      visibility: visible;
+    }
+  }
